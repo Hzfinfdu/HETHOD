@@ -6,3 +6,9 @@ A machine learning beginner is a programmer with an interest who may have starte
 HETHOD is a method to build up the system of machine learning in a processive manner.
 
 Copyright 2021, Zhengfu He, School of Computer Science, Fudan University
+
+E-mail: 19307110020@fudan.edu.cn
+
+Please feel free to contact me for any problem or datasets.
+
+This is just a start-up and will be refined after assignment deadline.
